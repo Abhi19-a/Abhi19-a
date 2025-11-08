@@ -35,6 +35,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi19-a&theme=dark" alt="Abhi19-a" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-02b62a2a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
@@ -44,7 +45,11 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhi19-a&label=Profile%20views&color=0e75b6&style=flat" alt="Abhi19-a" /> </p>
 
-------
+----------------------------
+-----------------------------
 [Abhi19-a](https://github.com/Abhi19-a)
+
+-----------------------------
+-----------------------------
 
 Last Edited on: 08/11/2025
