@@ -72,6 +72,9 @@
 <a href="mailto:abhishekbellare19@gmail.com" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
 </a>
+<a href="https://x.com/ABHI59431971" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ABHI59431971" height="30" width="40" />
+</a>
 <a href="https://instagram.com/abhi_bellare" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_bellare" height="30" width="40" />
 </a>
