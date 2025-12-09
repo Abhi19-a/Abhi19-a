@@ -49,10 +49,24 @@
 ---
 
 ## Connect with me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/abhishek-02b62a2a3){:target="_blank" rel="noreferrer noopener"}  
-[![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:abhishekbellare19@gmail.com){:target="_blank" rel="noreferrer noopener"}  
-[![X](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://x.com/ABHI59431971){:target="_blank" rel="noreferrer noopener"}  
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/abhi_bellare){:target="_blank" rel="noreferrer noopener"}
+
+<p>
+  <a href="https://linkedin.com/in/abhishek-02b62a2a3" target="_blank" rel="noreferrer noopener">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="24" height="24" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:abhishekbellare19@gmail.com" target="_blank" rel="noreferrer noopener">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="24" height="24" alt="Email">
+  </a>
+
+  <a href="https://x.com/ABHI59431971" target="_blank" rel="noreferrer noopener">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="24" height="24" alt="Twitter">
+  </a>
+
+  <a href="https://instagram.com/abhi_bellare" target="_blank" rel="noreferrer noopener">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="24" height="24" alt="Instagram">
+  </a>
+</p>
 
 ---
 
