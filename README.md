@@ -1,77 +1,76 @@
-<!-- README.md for Abhishek (Abhi19-a) -->
-# 👋 Hi, I'm ABHISHEK
+<h1 align="center">!!! *** Hi 👋, I'm ABHISHEK *** !!!</h1>
 
 🌱 I’m currently learning **WEB Development Full-Stack**
 
-<p align="right">
-  <img alt="Coding animation" width="280" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
-</p>
+<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ---
 
-## Languages & Tools
+## 💻 Languages and Tools
 <p>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="36" height="36"></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer noopener"><img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36"></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer noopener"><img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36"></a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer noopener"><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer noopener"><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36"></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36"></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer noopener"><img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36"></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer noopener"><img alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36"></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener"><img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36"></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"><img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36"></a>
-  <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer noopener"><img alt="Arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="36" height="36"></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="36" height="36" />
 </p>
 
 ---
 
-## MERN Stack
+## ⚡ MERN Stack
 <p>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"><img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36"></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer noopener"><img alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36" height="36"></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer noopener"><img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36"></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer noopener"><img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36"></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" />
 </p>
 
 ---
 
-## My GitHub Stats
-<!-- Top languages (compact) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abhi19-a&layout=compact&theme=dark)
+## 📊 My GitHub Stats  
+> ⚠️ If stats are not showing: **Disable Brave Shields / AdBlock**  
+> They load correctly for others.
 
-<!-- General user stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhi19-a&show_icons=true&theme=dark&count_private=true)
+### 🔥 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Abhi19-a&show_icons=true&theme=dark" width="450"/>
 
-> Note: If these images still show broken, open the URLs directly in a browser to check (copy the links above). If they load there but not on your profile page, disable Brave shields or whitelist `github.com`.
+### 🧠 Top Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi19-a&layout=compact&theme=dark" width="360"/>
 
 ---
 
-## Connect with me
-
+## 🤝 Connect with me
 <p>
-  <a href="https://linkedin.com/in/abhishek-02b62a2a3" target="_blank" rel="noreferrer noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="24" height="24" alt="LinkedIn">
+  <a href="https://linkedin.com/in/abhishek-02b62a2a3" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="24" height="24" />
   </a>
 
-  <a href="mailto:abhishekbellare19@gmail.com" target="_blank" rel="noreferrer noopener">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="24" height="24" alt="Email">
+  <a href="mailto:abhishekbellare19@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="24" height="24" />
   </a>
 
-  <a href="https://x.com/ABHI59431971" target="_blank" rel="noreferrer noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="24" height="24" alt="Twitter">
+  <a href="https://x.com/ABHI59431971" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="24" height="24" />
   </a>
 
-  <a href="https://instagram.com/abhi_bellare" target="_blank" rel="noreferrer noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="24" height="24" alt="Instagram">
+  <a href="https://instagram.com/abhi_bellare" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="24" height="24" />
   </a>
 </p>
 
 ---
 
-## Profile views
-![Profile views](https://komarev.com/ghpvc/?username=Abhi19-a&label=Profile%20views&color=0e75b6&style=flat)
+## 👀 Profile Views  
+<img src="https://komarev.com/ghpvc/?username=Abhi19-a&label=Profile%20views&color=0e75b6&style=flat" />
 
 ---
 
@@ -79,5 +78,4 @@
 
 ---
 
-_Last Edited on: December 9, 2025_
-
+_Last Edited on: 09/12/2025_
