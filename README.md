@@ -36,9 +36,8 @@
 
 ---
 
-## 📊 My GitHub Stats  
-> ⚠️ If stats are not showing: **Disable Brave Shields / AdBlock**  
-> They load correctly for others.
+--## 📊 My GitHub Stats  
+
 
 ### 🔥 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Abhi19-a&show_icons=true&theme=dark" width="450"/>
