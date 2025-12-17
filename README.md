@@ -38,16 +38,11 @@
 
 ## 📊 My GitHub Stats  
 
-### 🔥 GitHub Stats  
-<!-- Reliable stats host (mirror) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abhi19-a&show_icons=true&theme=dark" width="450" alt="Github Stats for Abhi19-a"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhi19-a&show_icons=true&theme=dark" height="165"/>
 
-### 🚀 GitHub Streak  
-<!-- Streak using demo host -->
-<img src="https://streak-stats.demolab.com?user=Abhi19-a&theme=dark" width="450" alt="GitHub Streak for Abhi19-a"/>
+<img src="https://streak-stats.demolab.com?user=abhi19-a&theme=dark" height="165"/>
 
-### 🧠 Top Languages  
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abhi19-a&layout=compact&theme=dark" width="360" alt="Top Languages for Abhi19-a"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi19-a&layout=compact&theme=dark" height="165"/>
 
 ---
 
