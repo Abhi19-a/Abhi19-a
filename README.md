@@ -6,7 +6,7 @@
 
 ---------------------------------------------------
 ## 💻 Languages and Tools
-===================================================
+---------------------------------------------------
 <p>
   <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="36" height="36" />
   <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" />
