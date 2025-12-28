@@ -40,12 +40,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhi19-a&show_icons=true&theme=dark" height="165"/>
 
-
 <img src="https://streak-stats.demolab.com?user=abhi19-a&theme=dark"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi19-a&layout=compact&theme=dark" height="165"/>
 
----
 
 ## 🤝 Connect with me
 <p>
