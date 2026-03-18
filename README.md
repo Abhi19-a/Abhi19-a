@@ -70,8 +70,7 @@
     <img alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30"/>
   </a>
 </p>
-
----====================================================================
+====================================================================
 
 ## 👀 Profile Views
 
