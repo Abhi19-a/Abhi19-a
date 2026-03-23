@@ -70,7 +70,7 @@
     <img alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30"/>
   </a>
 </p>
-====================================================================
+=================================================================================
 
 ## 👀 Profile Views
 
@@ -78,7 +78,7 @@
   <img src="https://komarev.com/ghpvc/?username=Abhi19-a&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-====================================================================
+================================================================================
 
 ⭐ From [Abhi19-a](https://github.com/Abhi19-a)
 
